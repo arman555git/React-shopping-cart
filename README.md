@@ -75,6 +75,5 @@ The React Context API is used to share cart items and the selected view between 
 
 ## Author
 
-Naresh Kumar Jena
+Arman Arora
 
-GitHub: [Nareshjena2005](https://github.com/Nareshjena2005)
